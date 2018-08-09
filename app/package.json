@@ -1,0 +1,20 @@
+{
+  "name": "cskefu-que",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "lodash": "^4.17.10",
+    "stompjs": "^2.3.3"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "nodemon": "^1.18.3"
+  }
+}
