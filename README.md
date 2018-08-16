@@ -37,6 +37,12 @@ cd ../admin
 
 [activemq.test.js](https://github.com/Samurais/node-activemq/blob/master/app/test/activemq.test.js)
 
+## stomp 规范
+http://stomp.github.io/stomp-specification-1.1.html
+
+## ActiveMQ
+https://activemq.apache.org/per-destination-policies.html
+
 ## 注意
 
 1. 设置header
